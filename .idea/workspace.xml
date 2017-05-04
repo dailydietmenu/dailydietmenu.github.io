@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c18a903-7486-4d41-be00-5547f04ffa1b" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bxslider.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/nanoscroller.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/arrow_down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/arrow_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/arrow_left_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/arrow_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/arrow_right_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/bg_header4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/bullit2-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/bullit2-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/bullit2-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/bullit2-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/bullit2-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/bullit2-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/bullit3-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/bullit3-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/bullit3-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/bullit4-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/bullit4-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/bullit4-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/carfwork_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/cart_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/check_blue.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/check_yellow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/checked.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/craft_work_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/denied.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/download_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/earth.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/footer11_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/footer11_socials.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/footer16_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/footer16_socials.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/footer17_icon_fb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/footer17_icon_gp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/footer17_icon_tw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/footer1_info_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/footer1_info_socials.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/footer20_popup_tip_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/footer20_popup_tip_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/footer20_socials.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/footer2_socials.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/footer3_info_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/footer5_socials.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/footer6_socials.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/footer7_img1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/footer7_img2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/footer7_img3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/footer8_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/header10_link1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/header10_link2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/header10_link3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/header10_link4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/header12_mouse.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/header14_message.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/header14_notification.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/header14_play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/header14_user.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/header14_user_after.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/header15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/header16_img.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/header16_link_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/header17_socials.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/header18_video_cover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/header20_play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/header2_fingerprint.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/header2_iphone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/header4_link_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/header4_socials.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/header4_video_cover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/header5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/header5_mouse.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/header5_play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/header5_socials.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/header6_appstore.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/header8_img.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/heart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/icon_apple.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/icon_comments.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/icon_date_end.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/icon_date_start.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/icon_guests.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/icon_likes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/icon_place.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/icon_search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/icon_sec2_2_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/icon_sec2_2_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/icon_sec3_10_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/icon_sec3_10_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/icon_sec3_2_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/icon_sec3_2_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/icon_views.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/img_sec2_1_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/img_sec2_1_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/img_sec2_1_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/img_sec2_1_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/img_sec2_1_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/img_sec2_1_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/input_number_down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/input_number_up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/logo1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/maket.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/maket10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/maket2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/maket3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/maket4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/maket5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/maket6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/maket8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/maket9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/menu_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/menu_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/mobile_menu_close_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/mobile_menu_close_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/mobile_menu_socials_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/mobile_menu_socials_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/nav11_avatar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/nav2_btn_appstore.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/nav2_btn_play_market.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/nav6_socials.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/nav6_socials_vertical.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/pin_it.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/plus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/quote.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/search_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_10_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_10_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_10_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_11_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_11_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_11_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_13_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_13_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_13_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_14_author1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_14_author2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_14_author3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_14_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_14_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_14_img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_14_img5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_14_img6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_14_img7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_16_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_16_icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_19_img1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_19_img2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_19_img3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_19_img4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_19_watches.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_20_link_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_4_icon1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_4_icon2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_4_img.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_6_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_6_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_6_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_7_img.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_8_logo1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_8_logo2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_8_logo3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_8_logo4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_8_logo5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_9_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_9_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec1_9_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_11_author.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_12_img.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_13_img1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_13_img2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_13_img3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_13_img4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_16_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_18_img1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_18_img2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_18_img3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_19_img1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_19_img2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_19_img3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_19_img4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_20_img1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_20_img2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_3_video.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_5_slider_img.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_6_img.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_7_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_7_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_7_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_7_img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_7_img5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_7_img6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_9_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_9_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_9_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_9_img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_9_img5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_9_img6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_9_img7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_9_img8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec2_9_img9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_10_img.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_11_author1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_11_author2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_11_author3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_11_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_11_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_11_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_12_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_12_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_13_img.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_14_img.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_16_img1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_16_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_16_img3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_16_img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_16_img5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_16_img6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_17_cover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_17_img.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_18_img.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_19_img1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_19_img2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_20_img1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_20_img2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_3_logo1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_3_logo2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_3_logo3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_3_logo4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_3_logo5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_4_link_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_4_link_arrow_green.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_6_author1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_6_author2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_6_author3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_6_author4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_6_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_6_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_6_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_6_img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_8_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_8_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_8_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_8_img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_8_img5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_8_img6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_9_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_9_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_9_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_9_img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_9_img5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_9_img6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_9_img7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec3_9_img8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_11_author1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_11_author2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_11_author3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_11_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_11_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_12_author1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_12_author2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_12_author3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_12_block_tip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_13_video_cover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_17_img1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_17_img2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_18_img1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_18_img2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_18_img3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_18_img4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_18_img5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_18_img6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_18_img7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_18_img8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_20_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_20_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_20_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_20_img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_20_img5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_20_img6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_20_img7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_20_img8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_20_img9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_2_logo_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_2_logo_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_2_logo_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_2_logo_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_2_logo_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_7_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_7_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec4_7_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_10_link_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_10_video_cover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_11_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_11_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_11_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_11_img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_12_img.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_14_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_14_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_14_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_14_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_14_img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_17_img1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_17_img2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_17_img3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_18_img1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_18_img2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_18_img3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_1_photo1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_1_photo2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_1_photo3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_1_star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_3_slider_author.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_4_img1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_4_img2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_5_col_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_5_col_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_5_col_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_6_appstore.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_6_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_6_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_6_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_6_img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_6_socials.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_7_img1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_7_img2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_7_img3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_7_img4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_7_img5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_7_img6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_7_img7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_7_img8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_9_author1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_9_author2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_9_author3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_9_quote.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec5_9_tw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_11_img1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_11_img2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_11_img3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_11_img4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_11_img5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_11_img6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_12_label_36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_13_block_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_13_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_13_img10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_13_img11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_13_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_13_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_13_img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_13_img5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_13_img6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_13_img7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_13_img8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_13_img9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_16_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_16_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_16_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_16_img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_16_img5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_16_img6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_16_img7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_16_img8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_16_img9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_18_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_18_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_18_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_18_img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_18_img5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_18_img6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_18_img7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_18_img8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_19_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_1_logo_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_1_logo_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_1_logo_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_1_logo_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_1_logo_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_1_logo_5_fixed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_20_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_20_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_20_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_20_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_20_img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_2_bootstrap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_2_video_cover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_2_video_pause.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_2_video_play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_2_video_play_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_9_img1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_9_img2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec6_9_img3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec7_10_img1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec7_10_img2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec7_10_img3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec7_10_img4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec7_11_img1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec7_11_img2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec7_11_img3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec7_13_check.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec7_14_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec7_14_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec7_14_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec7_1_team1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec7_1_team2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec7_1_team3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec7_1_team_socials.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec7_2_btn_blue.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec7_2_btn_green.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec7_7_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec8_12_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec8_12_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec8_17_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec8_17_fb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec8_17_tw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec8_18_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec8_18_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec8_1_img1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec8_1_img2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec8_1_img3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec_3_15_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec_3_15_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec_3_15_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec_3_15_img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec_6_15_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec_6_15_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec_6_15_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec_6_15_img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec_7_15_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec_7_15_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec_8_15_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec_8_15_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/sec_8_15_img_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/tabs_arrow_bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i/tabs_arrow_top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bxslider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.nanoscroller.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/video1.mov" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/i/bullit1-1.png" afterPath="$PROJECT_DIR$/i/bullit1-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/i/bullit1-2.png" afterPath="$PROJECT_DIR$/i/bullit1-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/i/bullit1-3.png" afterPath="$PROJECT_DIR$/i/bullit1-3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/i/bullit1-4.png" afterPath="$PROJECT_DIR$/i/bullit1-4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/i/bullit1-5.png" afterPath="$PROJECT_DIR$/i/bullit1-5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/i/bullit1-6.png" afterPath="$PROJECT_DIR$/i/bullit1-6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/i/sec5_8_author1.jpg" afterPath="$PROJECT_DIR$/i/sec5_8_author1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/i/sec5_8_author2.jpg" afterPath="$PROJECT_DIR$/i/sec5_8_author2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/i/sec5_8_author3.jpg" afterPath="$PROJECT_DIR$/i/sec5_8_author3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/i/sec5_8_author4.jpg" afterPath="$PROJECT_DIR$/i/sec5_8_author4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/i/sec6_12_img1.png" afterPath="$PROJECT_DIR$/i/sec6_12_img1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/i/sec6_12_img2.png" afterPath="$PROJECT_DIR$/i/sec6_12_img2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/i/sec6_12_img3.png" afterPath="$PROJECT_DIR$/i/sec6_12_img3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/i/sec6_12_img4.png" afterPath="$PROJECT_DIR$/i/sec6_12_img4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="756">
+              <caret line="149" column="105" lean-forward="false" selection-start-line="149" selection-start-column="105" selection-end-line="149" selection-end-column="105" />
+              <folding>
+                <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#14140#14146#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="481">
+              <caret line="2204" column="16" lean-forward="false" selection-start-line="2204" selection-start-column="16" selection-end-line="2204" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>5_10</find>
+      <find>font-weight</find>
+      <find>label</find>
+      <find>label{</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="2560" />
+    <option name="height" value="1440" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DDM_Landing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DDM_Landing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DDM_Landing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DDM_Landing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="i" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DDM_Landing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DDM_Landing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="FullScreen" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/i" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c18a903-7486-4d41-be00-5547f04ffa1b" name="Default" comment="" />
+      <created>1491907445668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1491907445668</updated>
+      <workItem from="1491907447805" duration="1206000" />
+      <workItem from="1491913502668" duration="7984000" />
+      <workItem from="1492189269749" duration="3077000" />
+      <workItem from="1493824738479" duration="258000" />
+      <workItem from="1493842585638" duration="3441000" />
+      <workItem from="1493890167979" duration="2083000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18049000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24222134" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#14140#14146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46263">
+          <caret line="2203" column="17" lean-forward="true" selection-start-line="2203" selection-start-column="10" selection-end-line="2203" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#14140#14146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282345">
+          <caret line="13445" column="1" lean-forward="false" selection-start-line="13445" selection-start-column="1" selection-end-line="13445" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#14140#14146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282345">
+          <caret line="13445" column="1" lean-forward="false" selection-start-line="13445" selection-start-column="1" selection-end-line="13445" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#14140#14146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282345">
+          <caret line="13445" column="1" lean-forward="false" selection-start-line="13445" selection-start-column="1" selection-end-line="13445" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#14140#14146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RaptureFrameworkHTML/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RaptureFrameworkHTML/index5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RaptureFrameworkHTML/index6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RaptureFrameworkHTML/index7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RaptureFrameworkHTML/index9.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RaptureFrameworkHTML/index11.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RaptureFrameworkHTML/index20.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RaptureFrameworkHTML/index19.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RaptureFrameworkHTML/index18.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RaptureFrameworkHTML/index17.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RaptureFrameworkHTML/index15.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RaptureFrameworkHTML/index13.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RaptureFrameworkHTML/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RaptureFrameworkHTML/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="237" column="18" lean-forward="true" selection-start-line="228" selection-start-column="8" selection-end-line="237" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RaptureFrameworkHTML/index3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RaptureFrameworkHTML/index4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="40" column="17" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RaptureFrameworkHTML/index8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="331" column="18" lean-forward="true" selection-start-line="299" selection-start-column="8" selection-end-line="331" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RaptureFrameworkHTML/index10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="170" column="18" lean-forward="true" selection-start-line="132" selection-start-column="8" selection-end-line="170" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RaptureFrameworkHTML/index12.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="659">
+          <caret line="232" column="18" lean-forward="true" selection-start-line="192" selection-start-column="8" selection-end-line="232" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RaptureFrameworkHTML/index14.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="149" column="18" lean-forward="true" selection-start-line="140" selection-start-column="8" selection-end-line="149" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RaptureFrameworkHTML/index16.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="157" column="18" lean-forward="true" selection-start-line="148" selection-start-column="8" selection-end-line="157" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery-bootstrap-modal-steps.min.js" />
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-700">
+          <caret line="87" column="1" lean-forward="false" selection-start-line="87" selection-start-column="1" selection-end-line="87" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="2204" column="16" lean-forward="false" selection-start-line="2204" selection-start-column="16" selection-end-line="2204" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="149" column="105" lean-forward="false" selection-start-line="149" selection-start-column="105" selection-end-line="149" selection-end-column="105" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#14140#14146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
