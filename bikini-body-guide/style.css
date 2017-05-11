@@ -1,0 +1,40 @@
+.div-banner-bg {
+    display: block;
+    position: fixed;
+    z-index: -999;
+    height: 100%;
+}
+
+#main
+{
+    margin-top: 10vh;
+    background-color:rgba(255, 255, 255, 0.9);
+    font-family: 'Lato', sans-serif;
+}
+
+.card-title
+{
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 30px !important;
+}
+
+.card-subtitle
+{
+    font-size: 24px;
+    margin-bottom: 30px !important;
+}
+
+.main-img {
+    margin-bottom: 30px;
+}
+
+p
+{
+    font-size: 18px;
+}
+
+input
+{
+    font-family: "Lato", sans-serif;
+}
