@@ -1,0 +1,59 @@
+html, body, .container {
+    height: 100%;
+}
+
+body
+{
+    background-color: #2a2a2a;
+    padding-top: 20px;
+}
+
+#main
+{
+    background-color:rgba(255, 255, 255, 1);
+    font-family: 'Lato', sans-serif;
+}
+
+.card-title
+{
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 30px !important;
+}
+
+.card-subtitle
+{
+    font-size: 24px;
+    margin-bottom: 30px !important;
+}
+
+p
+{
+    font-size: 18px;
+}
+
+input
+{
+    font-family: "Lato", sans-serif;
+}
+
+footer
+{
+    color: #999999;
+}
+
+footer a
+{
+    color: #FFFFFF;
+}
+
+.text-success
+{
+    color: #c80909 !important;
+}
+
+.btn-success
+{
+    background-color: #c80909 !important;
+    border-color: #c80909 !important;
+}
